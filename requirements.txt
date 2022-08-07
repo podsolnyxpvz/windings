@@ -1,5 +1,1 @@
-pyTelegramBotAPI
-telebot
-os
-random
-types
+pyTelegramBotAPI==4.6.0
